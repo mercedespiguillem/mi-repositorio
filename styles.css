@@ -1,6 +1,16 @@
 /* este va a ser el estilo del desafio git
 git */
+<<<<<<< HEAD
 p {
   color: chocolate;
   font-size: large;
+=======
+
+h1 {
+  /* estilos del h1 */
+}
+
+body {
+  /* estilos del body */
+>>>>>>> nueva-rama
 }
