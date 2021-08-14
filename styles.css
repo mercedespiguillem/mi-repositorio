@@ -1,2 +1,6 @@
 /* este va a ser el estilo del desafio git
 git */
+p {
+  color: chocolate;
+  font-size: large;
+}
